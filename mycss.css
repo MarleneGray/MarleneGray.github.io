@@ -1,0 +1,53 @@
+
+
+body {background-color: #C9EFE6;
+   font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+  font-size: medium;
+  font-style: normal; 
+  font-variant: normal; 
+  line-height: 1.5;
+  font-weight: 540; 
+  line-height: 20px; }
+#sub-title{
+  text-align: center;
+  font-weight: 600; 
+  line-height: 23px;
+}
+
+
+#title {
+  font-family: 'Palette Mosaic', cursive, Open Sans;
+  font-size: 50px;
+  text-align: center;
+  color: #37BC9B;
+}
+
+#img-div{
+
+ 
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  display: block; 
+  margin: 0 auto;
+ 
+}
+#img-caption{margin: 0 5% 0 5%;
+font-weight: 550;  
+}
+
+#tribute-info{ 
+ 
+  margin: 0 5% 0 5%;
+}
+
+a {
+font-size: medium;
+line-height: 1.5;
+
+color: red;
+ 
+}
+
